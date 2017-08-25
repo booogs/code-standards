@@ -1,4 +1,4 @@
-# ASH API Guidelines
+# API Guidelines
 
 ## Table of Contents
 1. [GET](#get)
