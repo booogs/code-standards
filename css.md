@@ -1,4 +1,4 @@
-# American Specialty Health CSS / Sass Styleguide﻿
+# CSS / Sass Styleguide﻿
 
 ## Table of Contents
 1. [CSS](#css)
